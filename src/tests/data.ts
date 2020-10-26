@@ -1,0 +1,18 @@
+export const data = {
+  string: 'String',
+  number: 42,
+  function: () => {},
+  promise: new Promise(),
+  date: new Date(),
+  undefined: undefined,
+  null: null,
+  emptyObject: {},
+  object: { string: 'String' },
+  emptyArray: [],
+  infinity: Infinity,
+  zero: 0,
+  zeroString: '0',
+  one: 1,
+  oneString: '1',
+  nan: NaN,
+};
