@@ -1,0 +1,21 @@
+{
+  "name": "be-sure",
+  "version": "1.0.0",
+  "description": "Be sure of JavaScript typings",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "types",
+    "javascript",
+    "string",
+    "object",
+    "number",
+    "NaN",
+    "array",
+    "symbol"
+  ],
+  "author": "Michal Honc",
+  "license": "ISC"
+}
