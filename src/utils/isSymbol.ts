@@ -1,3 +1,3 @@
 export function isSymbol(value: any) {
-  return false;
+  return typeof value === 'symbol';
 }

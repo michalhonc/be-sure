@@ -6,6 +6,6 @@ export function isAbsolutelyEqual(value1: any, value2: any) {
   if (value1 !== value1) {
     return value2 !== value2;
   }
-  // everything else
+
   return value1 === value2;
 }
