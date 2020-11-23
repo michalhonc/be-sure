@@ -14,8 +14,8 @@ I want to add more conditions and tests per condition. I am also deciding if thi
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Michal Honc - [https://michalhonc.cz](https://michalhonc.cz) - info@michalhonc.cz
-Project Link: [https://github.com/michalhonc/be-sure](https://github.com/michalhonc/be-sure)
+* Michal Honc - [https://michalhonc.cz](https://michalhonc.cz) - info@michalhonc.cz
+* Project Link: [https://github.com/michalhonc/be-sure](https://github.com/michalhonc/be-sure)
 
 ## Acknowledgements
 * [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
